@@ -5,7 +5,7 @@ name: Experimentando con Github Actions
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   Test_01:
